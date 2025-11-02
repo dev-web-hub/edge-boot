@@ -3,6 +3,6 @@
   "main": "worker.js",
   "compatibility_date": "2025-11-02",
   "kv_namespaces": [
-    { "binding": "KV_BOOTLOG", "id": "TBD_BOOTLOG" }
+    { "binding": "KV_BOOTLOG", "id": "cf152ce5993944cc919ca32f9a03d165" }
   ]
 }
